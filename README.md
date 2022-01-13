@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Hasanrizvi1993
--  I’m currently attending a coding bootcamp-GA
-- 🌱 I’m currently learning basic python 
+- 👋 Hi, I’m Hasan Rizvi
+- 🌱 I’m currently attending a Software Engineering Bootcamp
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me hasanrizvi1993@gmail.com
 
