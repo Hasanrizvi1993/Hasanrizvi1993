@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hasan Rizvi
 - 🌱 I’m a Full-Stack Web Developer
--  I’m looking to collaborate on web development project
+- :computer: Looking for work in the tech field. Please reach out to me at hasanrizvi1993@gmail.com
+- I’m looking to collaborate on web development project
 - 📫 How to reach me https://www.linkedin.com/in/rizvi-hasan/
 
 <!---
