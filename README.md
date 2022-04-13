@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasan Rizvi
-- 🌱 I’m currently attending a Software Engineering Bootcamp
-- 💞️ I’m looking to collaborate on web development project
+- 🌱 I’m a Full-Stack Web Developer
+-  I’m looking to collaborate on web development project
 - 📫 How to reach me https://www.linkedin.com/in/rizvi-hasan/
 
 <!---
