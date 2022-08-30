@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasan Rizvi
-- 🌱 I’m a Full-Stack Web Developer
-- :computer: Looking for work in the tech field. 
+- 🌱 I’m a Full-Stack Web Developer at ScheduleUp
+- :computer: Looking for Full time work in the tech field. 
 - Portfolio - https://www.hasanrizvicodes.com
 - 📫 How to reach me :one: Linkedin: https://www.linkedin.com/in/rizvi-hasan/ :two: Email: hasanrizvi1993@gmail.com
 
