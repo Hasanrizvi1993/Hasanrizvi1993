@@ -2,9 +2,9 @@
 
 🌱 I am a results-driven, full-stack web developer with an MBA from California Baptist University. I am a passionate knowledge seeker and knowledge sharer. 
 
-- :computer: I’m a Full-Stack Web Developer as a volunteer at ScheduleUp
-- 
-- :computer: Looking for Full time work in the tech field. 
+:computer: I’m a Full-Stack Web Developer as a volunteer at ScheduleUp
+
+🖥️ Looking for Full time work in the tech field. 
 
 👨🏽‍🏫 I am a firm believer in “If I don’t know it now, trust and believe, I will know it soon!” My main goal in life is to take complex information and demystify it for the interested, yet uninformed. 🧠
 
