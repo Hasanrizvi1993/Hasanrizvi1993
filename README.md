@@ -1,4 +1,4 @@
-#HELLO
+# HELLO
 
 💬 About Me
 
@@ -30,7 +30,7 @@
 - 🗞 watching the news
 - 📹 Working on my YouTube Channel
 
-##SKILLS
+## SKILLS
 - HTML5 
 - CSS
 - JavaScript
