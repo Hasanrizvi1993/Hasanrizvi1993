@@ -1,3 +1,7 @@
+#HELLO
+
+💬 About Me
+
 🙋🏽‍♂️ My name is Hasan Rizvi. Nice to digitally meet you!
 
 🌱 I am a results-driven, full-stack web developer with an MBA from California Baptist University. I am a passionate knowledge seeker and knowledge sharer. 
@@ -25,6 +29,25 @@
 - 🛫 Traveling
 - 🗞 watching the news
 - 📹 Working on my YouTube Channel
+
+##SKILLS
+- HTML5 
+- CSS
+- JavaScript
+- Python
+- CLI
+- GITHUB
+- GIT
+- React.js
+- Express.js
+- NOSQL
+- SQL
+- PostgreSQL
+- MONGODB
+- JQuery
+- Bootstrap
+- Visual Studio Code
+- Web and Third-Party APIs
 
 
 <!---
