@@ -18,13 +18,13 @@
 
 👨🏽‍💻 When I'm not coding, I am either:
 
-🎸 Making Music
-👨‍👩‍👧 Spending time with my wife and daughter
-🍕 Eating
-🚶🏾‍♀️ Going for a walk
-🛫 Traveling
-🗞 watching the news
-📹 Working on my YouTube Channel
+- 🎸 Making Music
+- 👨‍👩‍👧 Spending time with my wife and daughter
+- 🍕 Eating
+- 🚶🏾‍♀️ Going for a walk
+- 🛫 Traveling
+- 🗞 watching the news
+- 📹 Working on my YouTube Channel
 
 
 <!---
