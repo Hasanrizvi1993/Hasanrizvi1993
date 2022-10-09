@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Hasan Rizvi
-- 🌱 I’m a Full-Stack Web Developer at ScheduleUp
+🙋🏽‍♂️ My name is Hasan Rizvi. Nice to digitally meet you!
+
+🌱 I am a results-driven, full-stack web developer with an MBA from California Baptist University. I am a passionate knowledge seeker and knowledge sharer. 
+
+- :computer: I’m a Full-Stack Web Developer as a volunteer at ScheduleUp
+- 
 - :computer: Looking for Full time work in the tech field. 
-- Portfolio - https://www.hasanrizvicodes.com
-- 📫 How to reach me :one: Linkedin: https://www.linkedin.com/in/rizvi-hasan/ :two: Email: hasanrizvi1993@gmail.com
-
-👋 My name is Hasan Rizvi. Nice to digitally meet you!
-
-🌱 I am a results-driven, full-stack web developer with an MBA from California Baptist University. I am a passionate knowledge seeker and knowledge sharer. ✊
 
 👨🏽‍🏫 I am a firm believer in “If I don’t know it now, trust and believe, I will know it soon!” My main goal in life is to take complex information and demystify it for the interested, yet uninformed. 🧠
 
