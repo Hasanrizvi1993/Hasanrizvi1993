@@ -1,6 +1,6 @@
-# HELLO
+# Hello future employer!
 
-💬 About Me
+## 💬 About Me
 
 🙋🏽‍♂️ My name is Hasan Rizvi. Nice to digitally meet you!
 
