@@ -4,7 +4,7 @@
 
 🙋🏽‍♂️ My name is Hasan Rizvi. Nice to digitally meet you!
 
-🌱 I am a results-driven, full-stack web developer with an MBA from California Baptist University. I am a passionate knowledge seeker and knowledge sharer. 
+🌱 I am a result-driven, full-stack web developer with an MBA from California Baptist University. I am a passionate knowledge seeker and knowledge sharer. 
 
 :computer: I’m a Full-Stack Web Developer as a volunteer at ScheduleUp
 
